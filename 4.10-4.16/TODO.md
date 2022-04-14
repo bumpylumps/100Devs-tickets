@@ -6,7 +6,7 @@ Homework for the week
     - Tarot - lacks images so need to add pics of each card. could also add functionality    for different spreads  
     Might be worth making a good database for tarot someday
     
-    - DnD - needs styling but - done
+    - DnD - needs styling
 
 Play with cocktail api
     - it pulls a drink - done
