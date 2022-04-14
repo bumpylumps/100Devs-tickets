@@ -1,0 +1,33 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  font-family: "Playfair Display", sans-serif;
+  background-color: #A2D9CE;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  width: 200px;
+  border-radius: 4%;
+  margin: 0 auto;
+}
+
+h1, button, h2, h3 {
+  color: #2E86C1;
+  margin: 2% 5%;
+}
+
+h3 {
+  text-align: center;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/

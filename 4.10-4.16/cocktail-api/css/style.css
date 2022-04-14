@@ -1,0 +1,51 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  font-family: "Roboto Slab", sans-serif;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  border-radius: 10%;
+  height: 200px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-style: italic;
+}
+
+h2 {
+  margin: 2% auto;
+  width: 10%;
+  text-align: center;
+}
+
+#title {
+  display: block;
+  width: 30%;
+  margin: 5%; 
+}
+
+.drinkText {
+  display: block;
+  width: 19%;
+  margin: 3% 7%;
+  float: left;
+}
+
+#title > input {
+  margin: 5px 38px;
+  margin-right: 2px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
